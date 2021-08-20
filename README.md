@@ -34,4 +34,4 @@ __Melhoria 1__, _Melhoria 2_
 
 ### Imagem Externa
 
-![Logo do PHP](https://www.gsan.com.br/lib/exe/fetch.php?cache=&w=900&h=380&tok=2421df&media=ajuda:python-logo.png)
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png)
