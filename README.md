@@ -1,4 +1,6 @@
-# ecommerce_empresa_x
-Este é um e-commerce para empresa x (testando como utilizar Github)
+# E-commerce empresa X
 
-# Teste
+Vamos criar um e-commerce, para a empresa X e blablabla
+
+## Funcionalidades:
+Checkout, tela de produto, catálogo, home com banner
