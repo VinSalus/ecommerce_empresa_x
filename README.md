@@ -45,3 +45,12 @@ __Melhoria 1__, _Melhoria 2_
 Contribuidor principal: https://github.com/VinSalus/
 
 [![Logo do Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)](https://github.com/VinSalus/)
+
+## Código da função soma
+
+```javascript
+function soma(a,b){
+    return a + b;
+
+}
+```
